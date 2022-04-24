@@ -7,7 +7,7 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChanyoungPark88&repo=Study)](https://github.com/ChanyoungPark88/Study) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark88&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect
+## Connect with me
 
 <a href="https://www.linkedin.com/in/chanyoung-park-001111128/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
