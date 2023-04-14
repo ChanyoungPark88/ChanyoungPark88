@@ -1,6 +1,7 @@
 ## I am Chanyoung Park
 I'm a student who want to be SE.
-[Blog](https://chanyoungpark88.github.io/)
+<br>
+[Blog]Chanyoung's Note(https://chanyoungpark88.github.io/)
 <br>
 <br>
 
