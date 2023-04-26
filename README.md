@@ -1,5 +1,5 @@
 ## I am Chanyoung Park
-I'm a student who want to be SE.
+I'm a student who want to be Software Engineer.
 <br>
 [Chanyoung's Note](https://chanyoungpark88.github.io/)
 <br>
