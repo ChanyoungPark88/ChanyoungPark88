@@ -1,4 +1,4 @@
-## I am Chanyoung Park
+## I am Chanyoung
 I am a self-studying student who wants to become a S/W engineer.
 <br>
 [Chanyoung's Note](https://chanyoungpark88.github.io/)
