@@ -1,6 +1,5 @@
 ## I am Chanyoung Park
 I am a self-studying student who wants to become a DBA.
-https://leetcode.com/problems/article-views-i/
 <br>
 [Chanyoung's Note](https://chanyoungpark88.github.io/)
 <br>
