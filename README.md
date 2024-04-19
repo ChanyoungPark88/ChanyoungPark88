@@ -6,9 +6,9 @@ I am a self-studying student who wants to become a DBA.
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanyoungPark88&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PyChanyoung&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark88&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyChanyoung&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
 
