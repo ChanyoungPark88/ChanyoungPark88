@@ -2,7 +2,7 @@
 I am a self-studying student who wants to become a DBA.
 
 <br>
-[Chanyoung's Note](https://chanyoungpark88.github.io/)
+[Chanyoung's Note](https://pychanyoung.github.io/)
 <br>
 <br>
 
@@ -12,10 +12,10 @@ I am a self-studying student who wants to become a DBA.
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/chanyoung-park-001111128/" target="_blank" >
+<a href="https://www.linkedin.com/in/PyChanyoung/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:chanyoung.p.1988@gmail.com" target="_blank">
+<a href="mailto:pychanyoung@gmail.com" target="_blank">
    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
